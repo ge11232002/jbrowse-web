@@ -1,0 +1,10 @@
+---
+title: "JBrowse resources on genereg.net"
+output: html_document
+---
+
+# Available resources on genereg.net
+Carp genome and annotation: http://jbrowse-test.genereg.net/index.html?data=data/mpirunAugustus/
+
+# Quick start tutorial
+http://jbrowse-test.genereg.net/docs/tutorial/
